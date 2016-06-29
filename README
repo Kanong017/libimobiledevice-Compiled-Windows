@@ -1,0 +1,30 @@
+About
+=====
+# libimobiledevice-Compiled-Windows
+Precompiled .exe files for libimobiledevice compiled on 6.28.2016. 
+
+
+Requirements
+============
+
+Software:
+	iTunes
+
+
+Installation
+============
+
+1. Extract the file on your Windows PC
+2. Install iTunes
+3. Run the programs via CMD
+
+
+Credits
+=======
+
+Apple, iPhone, iPod, and iPod Touch are trademarks of Apple Inc.
+libimobiledevice is an independent software library and has not been
+authorized, sponsored, or otherwise approved by Apple Inc.
+
+README Updated on:
+	2016-06-28
